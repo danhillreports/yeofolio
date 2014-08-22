@@ -1,7 +1,7 @@
 var data = [
   {
     title: 'The Texas Tribune <a id="tt"></a>',
-    description: "I rebuilt the <a href='http://www.texastribune.org/library/data/government-employee-salaries/'>government salaries website</a>, created interactive graphics and played third base on the softball team. I also work with public records requests and help reporters find facts in messy datasets. There's a full list of my Texas Tribune bylines on my <a href='http://www.texastribune.org/about/staff/dan-hill/'>author page</a>.",
+    description: "I rebuilt the <a href='http://salaries.texastribune.org/'>government salaries website</a>, created interactive graphics and played third base on the softball team. I also work with public records requests and help reporters find facts in messy datasets. There's a full list of my Texas Tribune bylines on my <a href='http://www.texastribune.org/about/staff/dan-hill/'>author page</a>.",
     date: 'Fall 2013 &mdash; Fall 2014',
     projects: [
       {
