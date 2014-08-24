@@ -5,6 +5,12 @@ var data = [
     date: 'Fall 2013 &mdash; Fall 2014',
     projects: [
       {
+        title: 'Government salaries explorer',
+        link: 'http://salaries.texastribune.org/',
+        description: 'Six-month project to rebuild the four-year-old salary app, add gender and ethnicity analysis and address technical <a href="http://danhillreports.com/?p=838">debt</a>.',
+        img: 'detain.png'
+      },
+      {
         title: 'Prison contraband',
         link: 'http://www.texastribune.org/2014/05/04/cellphone-contraband-cases-few-face-charges/',
         description: 'Scraping PDFs of prison contraband seizures helped reporter Edgar Walters and I report on the discovery of a giant pit of smuggled cell phones. The story involved scraping PDFs with Tabula, querying our database and creating charts with R.'
