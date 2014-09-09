@@ -70,6 +70,11 @@ var data = [
         link: 'http://www.sacbee.com/2013/03/17/5270948/interactive-explore-leading-causes.html',
         description: 'I often used Google charts and Fusion Tables to quickly publish visualizations at the Bee. This treemap is one of the view interactives that still works after my Bee Google account was deactivated.',
         img: 'child.png'
+      },
+      {
+        title: 'Two North Sacramento roadside memorials mark back-to-back deaths',
+        link: 'http://www.sacbee.com/2013/02/06/5168746/two-north-sacramento-roadside.html',
+        description: 'After working the early-morning cops shift, I dug through police incident logs and found the intersection where a tragic collision occurred was a traffic hotspot. I went to the scene for more interviews and had a more in-depth story for the next day.'
       }
     ]
   },
