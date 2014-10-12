@@ -86,7 +86,7 @@ var data = [
       {
         title: 'Blog: Web scrapers for journalists',
         link: 'http://knightlab.northwestern.edu/2013/06/14/web-scrapers-for-journalists-haystax-and-other-graphical-interface-systems/',
-        description: 'I wrote about testing different web scrapers and hacked on a javascript-based web scraper with a graphical interface called <a href="https://github.com/danhillreports/haystax">Haystax</a>. This research prepared me lead a <a href="http://frankbi.github.io/AAJA-Scraper/tutorial.html">web scraping workshop</a> at the Asian American Journalists conference.'
+        description: 'I wrote about testing different web scrapers and hacked on a javascript-based web scraper with a graphical interface called <a href="https://github.com/danhillreports/haystax">Haystax</a>. This research prepared me to lead a <a href="http://frankbi.github.io/AAJA-Scraper/tutorial.html">web scraping workshop</a> at the Asian American Journalists conference.'
       },
       {
         title: 'NATO in Chicago',
