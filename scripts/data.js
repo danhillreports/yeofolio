@@ -48,7 +48,7 @@ var data = [
       },
       {
         title: 'America Shops: U.S. Retail Sales',
-        link: 'http://online.wsj.com/news/articles/SB10001424127887323977304579002761262522856',
+        link: 'http://graphics.wsj.com/us-retail-sales/',
         description: 'I collaborated with the Journal’s economic design experts to develop an auto-updating visualization of the <a href="http://www.census.gov/retail/">monthly retail sales report</a>. It was featured on Wonkblog as a "<a href="http://www.washingtonpost.com/blogs/wonkblog/wp/2013/08/14/wonkbook-why-hasnt-this-been-immigration-august/">Graph of the Day</a>"!',
         img: 'shops.jpg'
       }
