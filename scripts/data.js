@@ -36,6 +36,31 @@ var data = [
     ]
   },
   {
+    title: 'Migrahack <a id="migra"></a>',
+    description: '<a href="http://justicejournalism.org/programs/migrahack/">Migrahack</a> is an annual event that challenges participants to tell digital stories about immigration with data. Immigration is one of my favorite topics, and I like to experiment with storytelling techniques at these hackathons.',
+    date: '2013 - 2015',
+    projects: [
+      {
+        title: 'No Timely Response',
+        link: 'http://notr.s3-us-west-2.amazonaws.com/index.html',
+        description: 'I worked with Arizona Daily Star reporters to show what happens when highway patrol officers enforce SB1070. Traffic data analysis was the backbone of this choose-your-own-adventure prototype.',
+        img: 'notr.png'
+      },
+      {
+        title: 'Draw the Border',
+        link: 'http://danhillreports.github.io/naco/',
+        description: 'I grabbed American Community Survey and Mexican census data and illustrated sprawling border cities by asking users to draw on unlabeled satellite images.',
+        img: 'naco.png'
+      },
+      {
+        title: 'Trabajadores Desechables',
+        link: 'http://danhillreports.github.io/temporales/',
+        description: 'At a Migrahack event in Mexico City, I built this website to document testimonies of migrant workers in Louisiana fish factories.',
+        img: 'trabajador.png'
+      }
+    ]
+  },
+  {
     title: 'The Wall Street Journal <a id="wsj"></a>',
     description: 'I interned with the interactive graphics desk and absorbed the wisdom of its talented designers. Each of my projects were thoughtfully tested and prototyped to maximize the <a href="https://source.opennews.org/en-US/learning/what-if-data-visualization-actually-people/">utility of data visualization</a>.',
     date: 'Summer 2013',
