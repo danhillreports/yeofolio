@@ -1,7 +1,7 @@
 var data = [
   {
     title: 'The Texas Tribune <a id="tt"></a>',
-    description: "I rebuilt the <a href='http://salaries.texastribune.org/'>government salaries website</a>, created interactive graphics and played third base on the softball team. I also worked with public records requests and helped reporters find facts in messy datasets. There's a full list of my Texas Tribune bylines on my <a href='http://www.texastribune.org/about/staff/dan-hill/'>author page</a>.",
+    description: "I rebuilt the <a href='http://salaries.texastribune.org/'>government salaries website</a>, created interactive graphics and played third base on the softball team. I also worked with public records requests and helped reporters find facts in messy datasets. There&rsquo;s a full list of my Texas Tribune bylines on my <a href='http://www.texastribune.org/about/staff/dan-hill/'>author page</a>.",
     date: 'Fall 2013 &mdash; Fall 2014',
     projects: [
       {
@@ -18,7 +18,7 @@ var data = [
       {
         title: 'Immigrant detainers',
         link: 'http://www.texastribune.org/2014/03/04/cost-of-jailing-undocumented-immigrants/',
-        description: 'Politicians use the numbers from <a href="http://www.texastribune.org/2013/10/22/texas-jails-spend-millions-undocumented-immigrants/">monthly reports on immigrants</a> in Texas jails, but there’s no resource for comparing reports over time. I built this big web page with D3.js and Backbone.js to provide historical data.',
+        description: 'Politicians use the numbers from <a href="http://www.texastribune.org/2013/10/22/texas-jails-spend-millions-undocumented-immigrants/">monthly reports on immigrants</a> in Texas jails, but there&rsquo;s no resource for comparing reports over time. I built this big web page with D3.js and Backbone.js to provide historical data.',
         img: 'detain.png'
       },
       {
@@ -74,14 +74,14 @@ var data = [
       {
         title: 'America Shops: U.S. Retail Sales',
         link: 'http://graphics.wsj.com/us-retail-sales/',
-        description: 'I collaborated with the Journal’s economic design experts to develop an auto-updating visualization of the <a href="http://www.census.gov/retail/">monthly retail sales report</a>. It was featured on Wonkblog as a "<a href="http://www.washingtonpost.com/blogs/wonkblog/wp/2013/08/14/wonkbook-why-hasnt-this-been-immigration-august/">Graph of the Day</a>"!',
+        description: 'I collaborated with the Journal&rsquo;s economic design experts to develop an auto-updating visualization of the <a href="http://www.census.gov/retail/">monthly retail sales report</a>. It was featured on Wonkblog as a &ldquo;<a href="http://www.washingtonpost.com/blogs/wonkblog/wp/2013/08/14/wonkbook-why-hasnt-this-been-immigration-august/">Graph of the Day</a>&rdquo;!',
         img: 'shops.jpg'
       }
     ]
   },
   {
     title: 'The Sacramento Bee <a id="bee"></a>',
-    description: 'I wrote daily metro stories and made some interactives at my hometown paper for the Northwestern "journalism residency" program. I practiced computer science skills on deadline in a medium-sized newsroom and learned from my data journalism hero, Pulitzer finalist <a href="https://twitter.com/philliphreese">Phillip Reese</a>.',
+    description: 'I wrote daily metro stories and made some interactives at my hometown paper for the Northwestern &ldquo;journalism residency&rdquo; program. I practiced computer science skills on deadline in a medium-sized newsroom and learned from my data journalism hero, Pulitzer finalist <a href="https://twitter.com/philliphreese">Phillip Reese</a>.',
     date: 'Spring 2013',
     projects: [
       {
@@ -128,7 +128,7 @@ var data = [
   },
   {
     title: 'The Washington Post <a id="wapo"></a>',
-    description: 'As an "embedded IT" intern, I worked on a redesign of blog architecture and wrangled data for a yearlong homicide investigation.',
+    description: 'As an &ldquo;embedded IT&rdquo; intern, I worked on a redesign of blog architecture and wrangled data for a yearlong homicide investigation.',
     date: 'Summer 2012',
     projects: [
       {
@@ -140,7 +140,7 @@ var data = [
       {
         title: 'Keystone: Down the Line',
         link: 'http://www.washingtonpost.com/blogs/keystone-down-the-line/',
-        description: "The Post sent photographers to travel along the controversial Keystone XL pipeline and used their field reports to test using Wordpress in place of its legacy content management system. I worked on the Wordpress site and implemented designs. After this project, the Post transitioned other blogs, including Ezra Klein's Wonkblog, to Wordpress.",
+        description: "The Post sent photographers to travel along the controversial Keystone XL pipeline and used their field reports to test using Wordpress in place of its legacy content management system. I worked on the Wordpress site and implemented designs. After this project, the Post transitioned other blogs, including Ezra Klein&rsquo;s Wonkblog, to Wordpress.",
         img: 'keys.png'
       }
     ]
