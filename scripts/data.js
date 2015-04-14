@@ -7,7 +7,7 @@ var data = [
       {
         title: 'Government salaries explorer',
         link: 'http://salaries.texastribune.org/',
-        description: 'Six-month project to rebuild the four-year-old salary app, add gender and ethnicity analysis and address technical <a href="http://danhillreports.com/?p=838">debt</a>.',
+        description: 'In the process of rebuilding the four-year-old salary app, I added analysis of government earnings by employee gender and ethnicity and addressed technical <a href="http://danhillreports.com/?p=838">debt</a>.',
         img: 'salaries.png'
       },
       {
