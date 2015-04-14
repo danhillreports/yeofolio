@@ -11,11 +11,6 @@ var data = [
         img: 'salaries.png'
       },
       {
-        title: 'Prison contraband',
-        link: 'http://www.texastribune.org/2014/05/04/cellphone-contraband-cases-few-face-charges/',
-        description: 'Scraping PDFs of prison contraband seizures helped reporter Edgar Walters and I report on the discovery of a giant pit of smuggled cell phones. The story involved scraping PDFs with Tabula, querying our database and creating charts with R.'
-      },
-      {
         title: 'Immigrant detainers',
         link: 'http://www.texastribune.org/2014/03/04/cost-of-jailing-undocumented-immigrants/',
         description: 'Politicians use the numbers from <a href="http://www.texastribune.org/2013/10/22/texas-jails-spend-millions-undocumented-immigrants/">monthly reports on immigrants</a> in Texas jails, but there&rsquo;s no resource for comparing reports over time. I built this big web page with D3.js and Backbone.js to provide historical data.',
@@ -32,6 +27,11 @@ var data = [
         link: 'http://www.texastribune.org/2013/09/22/violence-behind-bars-tie-mental-illness/visualization/',
         description: 'I requested reports of violent incidents in Texas prisons and found units with mentally ill inmates have the highest rates of violence. The interactive was my first project with Backbone.js, which powered a Leaflet map and sortable table.',
         img: 'incidents.png'
+      },
+      {
+        title: 'Prison contraband',
+        link: 'http://www.texastribune.org/2014/05/04/cellphone-contraband-cases-few-face-charges/',
+        description: 'Scraping PDFs of prison contraband seizures helped reporter Edgar Walters and I report on the discovery of a giant pit of smuggled cell phones. The story involved scraping PDFs with Tabula, querying our database and creating charts with R.'
       }
     ]
   },
