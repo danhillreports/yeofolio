@@ -1,5 +1,24 @@
 var data = [
   {
+    title: 'Marketplace <a id="market"></a>',
+    description: "I improved my eye for reliable studies and statistics during a <a href='http://www.marketplace.org/learningcurve'>year-long project</a> to analyze audience engagement around education and technology reporting.",
+    date: 'Fall 2014 &mdash; Spring 2015',
+    projects: [
+      {
+        title: 'Find the AP participation rate at your high school',
+        link: 'http://www.marketplace.org/topics/education/learning-curve/what-ap-gap-looks-your-high-school',
+        description: 'I ran calculations on federal data and built this searchable database for a series of stories on Advanced Placement classes.',
+        img: 'school.png'
+      },
+      {
+        title: 'Juvenile justice by the numbers',
+        link: 'http://www.marketplace.org/topics/education/learningcurve/can-tech-transform-education-juvenile-offenders',
+        description: 'I crunched numbers to supplement field reporting for a series of stories on the use of computers in juvenile justice facilities. The web metrics got a bump when Hillary Clinton <a href="https://twitter.com/HillaryClinton/status/570749660341657600">tweeted</a> about the project.',
+        img: 'juvi.png'
+      },
+    ]
+  },
+  {
     title: 'The Texas Tribune <a id="tt"></a>',
     description: "I rebuilt the <a href='http://salaries.texastribune.org/'>government salaries website</a>, created interactive graphics and played third base on the softball team. I also worked with public records requests and helped reporters find facts in messy datasets. There&rsquo;s a full list of my Texas Tribune bylines on my <a href='http://www.texastribune.org/about/staff/dan-hill/'>author page</a>.",
     date: 'Fall 2013 &mdash; Fall 2014',
