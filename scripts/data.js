@@ -73,7 +73,7 @@ var data = [
       },
       {
         title: 'Trabajadores Desechables',
-        link: 'http://danhillreports.github.io/temporales/',
+        link: 'http://justicejournalism.org/projects/disposable-workers/',
         description: 'At a Migrahack event in Mexico City, I built this website to document testimonies of migrant workers in Louisiana fish factories.',
         img: 'trabajador.png'
       }
