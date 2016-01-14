@@ -1,5 +1,43 @@
 var data = [
   {
+    title: 'CALmatters <a id="cal"></a>',
+    description: 'I contributed maps, charts and <a href="https://calmatters.org/atom/wage-trends">gifs</a> to packages on transportation and minimum wage in California.',
+    date: 'Fall 2015',
+    projects: [
+      {
+        title: 'What wage is enough to support a family in each county?',
+        link: 'https://calmatters.org/atom/what-minimum-wages-could-support-a-family',
+        description: 'This interactive choropleth of California counties uses responsive and accessible design techniques.',
+        img: 'map.jpg'
+      },
+      {
+        title: 'Traffic, bad roads and funding shortfalls',
+        link: 'https://calmatters.org/articles/long-neglected-road-maintenance-is-now-urgent-and-expensive/',
+        description: 'Data on state roadways show poor quality at high cost. Coverage of crumbly roads included a pair of interactive maps and bar charts.',
+        img: 'shopp.png'
+      },
+    ]
+  },
+  {
+    title: 'Hoy Los Angeles <a id="hoy"></a>',
+    description: 'I experimented with interactive visualizations and quizzes for Spanish-speaking audiences.',
+    date: 'Summer 2015',
+    projects: [
+      {
+        title: 'MLS player salaries',
+        link: 'www.hoylosangeles.com/datablog/hoyla-el-contrato-de-dos-santos-en-el-mundo-de-mls-20150805-htmlstory.html',
+        description: 'When Mexican soccer star Giovani Dos Santos joined the Los Angeles pro team, I visualized how his contract compared to other international players and <a href="http://danhillreports.com/?p=914">blogged</a> about the use of bubbles for visualization.',
+        img: 'fut.png'
+      },
+      {
+        title: 'Get to know the presidential candidates',
+        link: 'http://www.hoylosangeles.com/hoyla-president-quilt-demo-20151013-htmlstory.html',
+        description: 'I designed a Tinder-like interface to swipe between the 2016 candidates.',
+        img: 'pres.png'
+      },
+    ]
+  },
+  {
     title: 'Marketplace <a id="market"></a>',
     description: "I improved my eye for reliable studies and statistics during a <a href='http://www.marketplace.org/learningcurve'>year-long project</a> to analyze audience engagement around education and technology reporting.",
     date: 'Fall 2014 &mdash; Spring 2015',
