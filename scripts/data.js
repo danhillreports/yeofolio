@@ -25,7 +25,7 @@ var data = [
     projects: [
       {
         title: 'MLS player salaries',
-        link: 'www.hoylosangeles.com/datablog/hoyla-el-contrato-de-dos-santos-en-el-mundo-de-mls-20150805-htmlstory.html',
+        link: 'http://www.hoylosangeles.com/datablog/hoyla-el-contrato-de-dos-santos-en-el-mundo-de-mls-20150805-htmlstory.html',
         description: 'When Mexican soccer star Giovani Dos Santos joined the Los Angeles pro team, I visualized how his contract compared to other international players and <a href="http://danhillreports.com/?p=914">blogged</a> about the use of bubbles for visualization.',
         img: 'fut.png'
       },
